@@ -1,0 +1,23 @@
+body{
+    background-image:url('../images/background.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 6px;
+    width: 10%;
+}
+h1{
+    font-family:cursive;
+    color: #660202;
+}
+h2{
+    color: #660202;
+}
+h3{
+    color: #660202;
+}
